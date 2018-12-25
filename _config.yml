@@ -1,0 +1,42 @@
+# Site
+name: "WhileTrueCurious"
+description: "Yet Another Technical Blog.."
+meta_description: "Technical Blogs, Big Data, Machine Learning, Spark"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: 'UA-131341253-1'
+disqus: 'whiletruecurious'
+mailchimp-list: 'https://whiletruecurious.com/mailchimp.html'
+
+# Authors
+authors:
+  dev:
+    name: Mukul Dev
+    display_name: Mukul Dev
+    gravatar: 9409e676297210cf0194e6f48019a5bd
+    email: devmukul44@gmail.com
+    web: https://www.linkedin.com/in/devmukul44/
+    twitter: https://twitter.com/devmukul44
+    description: "Data Engineer | Developer | This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
