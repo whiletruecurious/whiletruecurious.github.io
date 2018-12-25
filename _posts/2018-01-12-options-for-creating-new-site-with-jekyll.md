@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating a new static website with Jekyll"
 author: dev
-categories: [ Jekyll, tutorial ]
+categories: [Jekyll, tech]
 image: assets/images/13.jpg
 featured: true
 hidden: true

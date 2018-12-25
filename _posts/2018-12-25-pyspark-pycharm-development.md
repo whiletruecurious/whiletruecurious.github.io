@@ -2,7 +2,7 @@
 layout: post
 title:  "PySpark development environment with debugger; leveraging PyCharm on mac"
 author: dev
-categories: [spark, pyspark, pycharm, tech]
+categories: [spark, pyspark, pycharm, bigdata, python, tech]
 image: https://www.isdi.education/sites/default/files/styles/noticia_basico/public/noticias/big-data.png?itok=KjsLse-P
 featured: true
 hidden: true
