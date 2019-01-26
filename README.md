@@ -9,8 +9,6 @@
 
 This website is built with Jekyll and Mediumish template for Jekyll.
 
-[//]: # ![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
-
 ### Features
 
 - Built for Jekyll

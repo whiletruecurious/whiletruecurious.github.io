@@ -60,3 +60,7 @@ Jetbrains has a great documentation of Pycharm debugging.
 - General introduction for debugging features like `breakpoint` can be found [here](https://www.jetbrains.com/help/pycharm/debugging-code.html).
 - Debugging session along with detailed example can be found [here](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html).
 
+### References:
+* https://issues.apache.org/jira/browse/SPARK-1267
+* https://stackoverflow.com/questions/34685905/how-to-link-pycharm-with-pyspark
+* https://hackernoon.com/pycharm-and-apache-spark-on-mac-os-x-990af6dc6f38
