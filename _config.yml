@@ -1,7 +1,7 @@
 # Site
 name: "WhileTrueCurious"
-description: "Yet Another Technical Blog.."
-meta_description: "Technical Blogs, Big Data, Machine Learning, Spark"
+description: "Yet Another Technical Blog..."
+meta_description: "Technical Blog, Big Data, Data Engineering, Big Data Engineering, Data Science, Machine Learning, Spark, Hadoop, AWS"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -17,14 +17,14 @@ authors:
     gravatar: 9409e676297210cf0194e6f48019a5bd
     email: devmukul44@gmail.com
     web: https://www.linkedin.com/in/devmukul44/
-    twitter: https://www.instagram.com/_mukuldev/
-    description: "Data Engineer | Developer | Proficient in designing and implementing distributed applications and highly available web services at scale. | Hands-on experience of BigData technologies including Spark, Hadoop, Parquet and Avro file format, ElasticSearch, Hbase."
+    twitter: https://medium.com/@_dev
+    description: "Big Data Engineering | Data Science | Proficient in designing and implementing distributed applications and highly available web services at scale. | Hands-on experience of BigData technologies including Spark, Hadoop, Parquet and Avro file format, ElasticSearch, Hbase."
 
 # Plugins
 plugins: 
   - jekyll-paginate
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
@@ -32,11 +32,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 highlighter: rouge
