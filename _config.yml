@@ -1,9 +1,9 @@
 # Site
-name: "WhileTrueCurious"
+name: "While(True){Curious}"
 description: "Yet Another Technical Blog..."
 meta_description: "Technical Blog, Big Data, Data Engineering, Big Data Engineering, Data Science, Machine Learning, Spark, Hadoop, AWS"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/wtc-logo-40.png'
+favicon: 'assets/images/wtc-logo-40.png'
 baseurl: ''
 google_analytics: 'UA-131341253-1'
 disqus: 'whiletruecurious'
