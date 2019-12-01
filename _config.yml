@@ -4,7 +4,7 @@ description: "Yet Another Technical Blog..."
 meta_description: "Technical Blog, Big Data, Data Engineering, Big Data Engineering, Data Science, Machine Learning, Spark, Hadoop, AWS"
 logo: 'assets/images/wtc-logo-40.png'
 favicon: 'assets/images/wtc-logo-40.png'
-baseurl: ''
+baseurl: /whiletruecurious
 google_analytics: 'UA-131341253-1'
 disqus: 'whiletruecurious'
 mailchimp-list: 'https://whiletruecurious.com/mailchimp.html'
